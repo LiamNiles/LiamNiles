@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LiamNiles
-- 👀 I’m interested in Coding ansd repair
+- 👀 I’m interested in Coding and repair
 - 🌱 I’m currently learning Ruby and RubyonRails
 - 💞️ I’m looking to collaborate on getting into coding and programming
 - 📫 How to reach me is here or by email at liamniles@gmail.com
